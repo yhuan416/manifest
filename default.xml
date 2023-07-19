@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="." />
-  <default revision="main" remote="origin" />
-  <project path="mmem_debug" name="mmem_debug" />
+    <remote name="yhuan416" fetch="." />
+    <remote name="github" fetch=".." />
+    <default revision="main" remote="yhuan416" />
+    <project path="mmem_debug" name="mmem_debug" />
+    <project path="libuv" name="libuv/libuv" remote="github" revision="v1.46.0" />
 </manifest>
