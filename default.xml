@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch=".." />
+  <remote name="origin" fetch="." />
   <default revision="main" remote="origin" />
   <project path="mmem_debug" name="mmem_debug" />
 </manifest>
