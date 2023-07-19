@@ -4,5 +4,5 @@
     <remote name="github" fetch=".." />
     <default revision="main" remote="yhuan416" />
     <project path="mmem_debug" name="mmem_debug" />
-    <project path="libuv" name="libuv/libuv" remote="github" revision="v1.46.0" />
+    <project path="libuv" name="libuv/libuv" remote="github" revision="refs/tags/v1.46.0" />
 </manifest>
